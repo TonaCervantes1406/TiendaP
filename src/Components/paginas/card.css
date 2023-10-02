@@ -1,0 +1,14 @@
+.rounded{
+    width: 40%;
+    height: auto;
+    object-fit: cover;
+    object-position: bottom;
+}
+.card{
+    bottom: 50px;
+    display: block;
+    margin: 50px;
+    padding: 30px;
+    box-sizing: inherit;
+    position: absolute;
+}

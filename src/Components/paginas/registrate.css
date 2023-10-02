@@ -1,0 +1,58 @@
+.containerR {
+    background-color: #E4D6BC;
+    padding: 100px;
+    margin-top: 3%;
+    margin-left: 38%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid black;
+    width: 500px;
+}
+.userR{
+    position: absolute;
+    left: 57%;
+    top: 20%;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    align-items: center;
+}
+
+.Registrar {
+    background-color: gray;
+    color: black;
+    padding: 5px 10px; 
+    border: none;
+    border-radius: 15px;
+    position: relative;
+    top: 30px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.Cancelar {
+    background-color: gray;
+    color: black;
+    padding: 5px 10px; 
+    border: none;
+    position: relative;
+    top: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: white ;
+}

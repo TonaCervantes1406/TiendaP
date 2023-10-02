@@ -1,0 +1,13 @@
+.logo{
+    border-radius: 10px;
+    float: left;
+}
+.carrito{
+    right: 50px;
+    float: right;
+}
+.Texto{
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+}
